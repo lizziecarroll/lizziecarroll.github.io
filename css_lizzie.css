@@ -10,12 +10,12 @@
 	text-align:center;
 }
 
-side bar {
+.side bar {
 	color:black;
 	text-align:left;
 }
 
-content {
+.content {
 	color:black;
 	font-weight:bold;
 }
