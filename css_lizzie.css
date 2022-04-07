@@ -1,0 +1,24 @@
+header {
+	background-color:red;
+	color:black;
+	text-align:center;
+}
+
+topbar {
+	background-color:darkgray;
+	color:white;
+}
+
+side bar {
+	color:black;
+}
+
+content {
+	color:black;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
+
